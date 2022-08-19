@@ -1,4 +1,3 @@
-# tindog
 # Angela Yu Web Development - Intermediate Bootstrap
 # HTML/CSS & Bootstrap - Tin Dog Website
 
